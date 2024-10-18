@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a passionate developer and data enthusiast. I’m cons
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+<!-- - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
 
 
 **Frameworks & Libraries:**
@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm a passionate developer and data enthusiast. I’m cons
 -  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 -  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 -  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
--  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+<!-- -  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  -->
 
 
 **Databases:**
@@ -73,7 +73,7 @@ Welcome to my GitHub! I'm a passionate developer and data enthusiast. I’m cons
 - **[Tableau Dashboard](https://public.tableau.com/app/profile/riya.m5522/viz/Reviews-BritishAirlines/Dashboard1)**: The dashboard provides insights into various aspects of customer experience, such as overall ratings, service quality, and comments on specific aspects of the airline's offerings.
 
 ## 🌱 Currently Learning:
-- Advanced machine learning techniques
+- Machine learning techniques
 - **Coursera**: Enrolled in the Google Advanced Data Analytics Certification (2024)
 
 
