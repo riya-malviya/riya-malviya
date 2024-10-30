@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub! I'm a passionate developer and data enthusiast. I’m constantly working on projects that align with my interests in technology, data analytics, and creative problem-solving. Here's a bit about my skills, tools, and the projects I've been working on.
 
-[Portfolio Website](https://riya-malviya-portfolio.netlify.app/): My personal portfolio showcasing projects, skills, and experience.
 
 ## 🚀 Technology Stack:
 
@@ -82,3 +81,6 @@ Welcome to my GitHub! I'm a passionate developer and data enthusiast. I’m cons
 - **Email**: [riyamalviya02@gmail.com](mailto:riyamalviya02@gmail.com)
 
 
+## Portfolio
+My personal portfolio showcasing projects, skills, and experience.<br>
+[Portfolio Website](https://riya-malviya-portfolio.netlify.app/)
