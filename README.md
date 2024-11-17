@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 
 # Hi, I'm Riya Malviya 👋
 
-Welcome to my GitHub! I'm a passionate developer and data enthusiast. I’m constantly working on projects that align with my interests in technology, data analytics, and creative problem-solving. Here's a bit about my skills, tools, and the projects I've been working on.
+Welcome to my GitHub! I'm a passionate developer and data enthusiast. I’m constantly working on projects that align with my interests in technology, data analytics, and creative problem-solving. Here's a bit about my skills, tools, and the projects I've worked on.
 
+## 💼 Portfolio
+My personal portfolio showcasing projects, skills, and experience.<br>
+[Portfolio Website](https://riya-malviya-portfolio.netlify.app/)
 
 ## 🚀 Technology Stack:
 
@@ -60,10 +63,11 @@ Welcome to my GitHub! I'm a passionate developer and data enthusiast. I’m cons
  ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 
 
-**Others:**
-- Web Scraping
-- Responsive Web Design
-- Google Analytics
+## 🎓 Certificates:<br>
+- [Google Advanced Data Analytics Certificate(Coursera)](https://coursera.org/share/d52f7639a40d9b163f1ba1cc95237ef9)
+- [Google AI Essentials Certificate(Coursera)](https://coursera.org/share/435a6226abf3a63b44a7c24b7b38ef28)
+- [Introduction to Cybersecurity(Cisco)](https://riya-malviya-portfolio.netlify.app/assets/Introduction_to_Cybersecurity_Badge20241105-27-a0mpt3.pdf)
+- [Introduction to Copywriting(Eduonix)](https://riya-malviya-portfolio.netlify.app/assets/certificate-Become-A-Copywriter-Pro-from-Ground-Up.jfif)
 
 
 ## 📚 Projects:
@@ -73,7 +77,7 @@ Welcome to my GitHub! I'm a passionate developer and data enthusiast. I’m cons
 
 ## 🌱 Currently Learning:
 - Machine learning techniques
-- **Coursera**: Enrolled in the Google Advanced Data Analytics Certification (2024)
+- Responsive web design
 
 
 ## 📫 Let's Connect:
@@ -81,6 +85,4 @@ Welcome to my GitHub! I'm a passionate developer and data enthusiast. I’m cons
 - **Email**: [riyamalviya02@gmail.com](mailto:riyamalviya02@gmail.com)
 
 
-## Portfolio
-My personal portfolio showcasing projects, skills, and experience.<br>
-[Portfolio Website](https://riya-malviya-portfolio.netlify.app/)
+
